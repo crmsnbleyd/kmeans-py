@@ -16,6 +16,10 @@ eggs/
 .eggs/
 lib/
 lib64/
+share/
+bin/
+include/
+etc/
 parts/
 sdist/
 var/
